@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, tudo bom? Guilherme</h1>
-<h3 align="jutify">sou estudante e entusiasta da área de TI e por aqui neste perfil você irá encontrar alguns projetos (alguns que não foram muito para frente e acabaram sendo abandonados) feitos por minha pessoa que talvez possa te ajudar em algum conceito de alguma linguagem de programação. Como ideias originais são bem difíceis de surgir saiba que provalvemente a maioria desses projetos não surgiram da minha cabeça. Explora a vontade.</h3>
+<h3 align="jutify">sou estudante e entusiasta da área de TI e por aqui neste perfil você irá encontrar alguns projetos (alguns que não foram muito para frente e acabaram sendo abandonados) feitos por minha pessoa que talvez possa te ajudar em algum conceito de alguma linguagem de programação. Como ideias originais são bem difíceis de surgir saiba que provalvemente a maioria desses projetos não surgiram da minha cabeça. Explore a vontade.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
