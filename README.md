@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, tudo bom?</h1>
-<h3 align="jutify">Fique a vontade para explorar os conteúdos. Aberto para sujestões e dicas</h3>
+<h3 align="jutify">Fique a vontade para explorar os conteúdos. Sempre aberto para sujestões e dicas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
