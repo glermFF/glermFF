@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, tudo bom?</h1>
-<h3 align="jutify">Sou Guilherme, programador e entusiasta sobre assuntos de tecnologia. No momento estou cursando a graduação de Sistemas de Informação na UFOP, onde durante cada período implemento projetos os quais participei durante o curos e alguns porjetos pessoais. Serão 4 anos onde posso me aperfeiçoar e aprofundar mais e mais meus conhecimentos na área tech. Fique a vontade para explorar os conteúdos. Sempre aberto para sujestões e dicas.</h3>
+<h3 align="jutify"> Sou Guilherme, programador e entusiasta sobre assuntos de tecnologia. No momento estou cursando a graduação de Sistemas de Informação na UFOP, onde durante cada período implemento projetos os quais participei durante o curos e alguns porjetos pessoais. Serão 4 anos onde posso me aperfeiçoar e aprofundar mais e mais meus conhecimentos na área tech. Fique a vontade para explorar os conteúdos. Sempre aberto para sujestões e dicas.</h3>
 
 
 <h3 align="left">💻Stacks and Tools:</h3>
@@ -21,6 +21,7 @@
 <a href="https://www.linkedin.com/in/guilherme-ferreira-freitas-954299239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<h3 align="left">📊Stats:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=glerm-dev&show_icons=true&locale=en&layout=compact" alt="glerm-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glerm-dev&" alt="glerm-dev" /></p>
