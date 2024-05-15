@@ -22,6 +22,6 @@
 </p>
 
 <h3 align="left">📊Stats:</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=glerm-dev&show_icons=true&locale=en&layout=compact" alt="glerm-dev" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=glermFF&show_icons=true&locale=en&layout=compact" alt="glermFF" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glerm-dev&" alt="glerm-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glermFF&" alt="glermFF" /></p>
