@@ -1,7 +1,8 @@
-<h1 align="center">Hey there!</h1>
+<img src="https://github.com/user-attachments/assets/8e3d662c-0fe6-40f1-b925-4d7518e3f3c0">
 
 <ul type="none">
-  <li>> 🎓 Currently studying Information Systems at college;</li>
+  <br>
+  <li>> 🎓 Currently studying Information Systems at Federal University of Ouro Preto (UFOP);</li>
   <li>> 🔍 Curious about cybersec, eletronics and various porgramming topics;</li>
   <li>> 💻 Always behind a screen;</li>
 </ul>
