@@ -31,8 +31,9 @@
 
 <h3 align="left">📚 Studying:</h3>
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-00ACD8?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 <h3 align="left">🌐 Social:</h3>
