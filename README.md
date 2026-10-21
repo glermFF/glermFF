@@ -6,7 +6,7 @@
     <code>MOOD: CREATE / BREAK / FIX</code>
   </p>
   <img src="https://img.shields.io/badge/WEB_2.0-ENERGY-4F46E5?style=plastic" alt="Web 2.0 energy" />
-  <p><sub>Best viewed with curiosity and too many open tabs.</sub></p>
+  <p><sub>Best viewed with curiosity and too many open tabs</sub></p>
 </div>
 
 <h2> [ 01 ] ABOUT ME </h2>
@@ -25,9 +25,9 @@
     <td valign="top">
       <h3>Current interests</h3>
       <p>
-        <img src="https://img.shields.io/badge/Cybersecurity-curious-7C3AED?style=plastic" alt="Cybersecurity" />
+        <img src="https://img.shields.io/badge/Cybersecurity-most interest-7C3AED?style=plastic" alt="Cybersecurity" />
         <img src="https://img.shields.io/badge/Electronics-curious-DB2777?style=plastic" alt="Electronics" />
-        <img src="https://img.shields.io/badge/Systems-exploring-0891B2?style=plastic" alt="Embebed Systems" />
+        <img src="https://img.shields.io/badge/Embebed Systems-exploring-0891B2?style=plastic" alt="Embebed Systems" />
       </p>
       <h3>Currently learning</h3>
       <p>
@@ -85,11 +85,11 @@
 <h2> [ 03 ] FIND ME AROUND THE WEB </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/guilherme-ferreira-freitas-954299239/">
+  <a href="https://www.linkedin.com/in/guiffreitas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
   </a>
 </p>
 
 <div align="center">
-  <sub>Thanks for stopping by. Feel free to explore my repositories.</sub>
+  <sub>Feel free to explore my repositories =)</sub>
 </div>
